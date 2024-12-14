@@ -1,6 +1,5 @@
 <h1 align="center" style="color: #4CAF50;">Hi 👋, I'm Tulasi Kumar Sahu</h1>
-
-
+<div align="center"> <img src="https://github.com/Tks-Devops/Tks-Devops/blob/main/Tulasi kumar sahu.png"> </div>
 <h3 align="center" style="color: #2196F3;">A passionate DevOps Engineer from India, I work in the corporate IT sector. In my free time, I share knowledge through technical blogs on Hashnode and create educational YouTube videos on DevOps Alchemy.</h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
