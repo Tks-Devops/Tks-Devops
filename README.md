@@ -14,7 +14,7 @@
 
 <h3 align="left" style="color: #FF5722;">Connect with me:</h3>
 <p align="left">
-
+<img align="right" alt="Coding" width="300" src="devOps-cloud-native.gif">
   <a href="https://linkedin.com/in/www.linkedin.com/in/tulasikumarsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tulasikumarsahu" height="30" width="40" /></a>
   <a href="https://hashnode.com/@cloudcraft-with-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cloudcraft-with-tk" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/@devopsalchemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devopsalchemy" height="30" width="40" /></a>
@@ -57,7 +57,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tks-devops&show_icons=true&locale=en&layout=compact" alt="tks-devops" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tks-devops&show_icons=true&locale=en" alt="tks-devops" /></p>
-<img align="right" alt="Coding" width="400" src="devOps-cloud-native.gif">
+<img align="right" alt="Coding" width="300" src="devOps-cloud-native.gif">
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tks-devops&" alt="tks-devops" /></p>
 
 
