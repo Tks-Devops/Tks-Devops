@@ -11,10 +11,10 @@
 - 📝 I regularly write articles on [https://hashnode.com/@CloudCraft-with-TK](https://hashnode.com/@CloudCraft-with-TK)
 - 💬 Ask me about **DevOps & Cloud DevOps**
 - 📫 How to reach me **tksahu.devops@gmail.com**
-
+  <img align="right" alt="Coding" width="400" src="devOps-cloud-native.gif">
 <h3 align="left" style="color: #FF5722;">Connect with me:</h3>
 <p align="left">
-  <img align="right" alt="Coding" width="400" src="devOps-cloud-native.gif">
+
   <a href="https://linkedin.com/in/www.linkedin.com/in/tulasikumarsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tulasikumarsahu" height="30" width="40" /></a>
   <a href="https://hashnode.com/@cloudcraft-with-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cloudcraft-with-tk" height="30" width="40" /></a>
   <a href="https://www.youtube.com/c/@devopsalchemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devopsalchemy" height="30" width="40" /></a>
