@@ -57,10 +57,13 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tks-devops&show_icons=true&locale=en&layout=compact" alt="tks-devops" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tks-devops&show_icons=true&locale=en" alt="tks-devops" /></p>
-<img align="right" alt="Coding" width="300" src="devOps-cloud-native.gif">
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tks-devops&" alt="tks-devops" /></p>
 
 
-
+<img align="right" alt="Coding" width="600" src="devOps-cloud-native.gif">
 <h3 align="center" style="color: #FF9800; font-size: 1.5em;">Thank you for visiting my profile! 😊</h3>
 <h3 align="center" style="color: #4CAF50; font-size: 1.5em;">Feel free to reach out for any DevOps-related queries or collaboration opportunities. Let's build amazing things together! 🚀</h3>
+
+
+
