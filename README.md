@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tks-devops&label=Profile%20views&color=0e75b6&style=flat" alt="tks-devops" /> </p>
 
-- 🔭 I’m currently working on [30-days-of-DevOps](https://github.com/Tks-Devops)
+- 🔭 I’m currently working on ["DevOps: Nursery to Graduation"](https://github.com/Tks-Devops)
 - 🌱 I'm currently exploring **Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/Tks-Devops](https://github.com/Tks-Devops)
 - 📝 I regularly write articles on [https://hashnode.com/@CloudCraft-with-TK](https://hashnode.com/@CloudCraft-with-TK)
