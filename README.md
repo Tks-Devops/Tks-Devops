@@ -17,7 +17,7 @@
 <img align="right" alt="Coding" width="200" src="images.jpg">
   <a href="https://linkedin.com/in/www.linkedin.com/in/tulasikumarsahu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/tulasikumarsahu" height="30" width="40" /></a>
   <a href="https://hashnode.com/@cloudcraft-with-tk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@cloudcraft-with-tk" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/@devopsalchemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devopsalchemy" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/c/www.youtube.com/@DevOpsAlchemy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@devopsalchemy" height="30" width="40" /></a>
 </p>
   
 <h3 align="left" style="color: #673AB7;">Languages and Tools:</h3>
