@@ -96,8 +96,24 @@
 
 
 <img align="right" alt="Coding" width="600" src="devOps-cloud-native.gif">
-<h3 align="center" style="color: #FF9800; font-size: 1.5em;">Thank you for visiting my profile! 😊</h3>
-<h3 align="center" style="color: #4CAF50; font-size: 1.5em;">Feel free to reach out for any DevOps-related queries or collaboration opportunities. Let's build amazing things together! 🚀</h3>
+<h1 align="center" >Have an idea? Let's connect:</h1>
 
+<div align="center" gap="20px">
+<a href="https://www.linkedin.com/in/tulasikumarsahu/">
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://hashnode.com/@CloudCraft-with-TK">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=white" />
+</a>
 
+<a href="https://github.com/Tks-Devops">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+</a>
+</div>
+
+<div align="center" gap="20px">
+<a href="https://www.youtube.com/@DevOpsAlchemy">
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+</a>
+</div>
