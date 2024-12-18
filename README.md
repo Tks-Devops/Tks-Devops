@@ -9,7 +9,7 @@
 - 🌱 I'm currently exploring **Kubernetes**
 - 👨‍💻 All of my projects are available at [https://github.com/Tks-Devops](https://github.com/Tks-Devops)
 - 📝 I regularly write articles on [https://hashnode.com/@CloudCraft-with-TK](https://hashnode.com/@CloudCraft-with-TK)
-- 💬 Ask me about **DevOps & Cloud DevOps**
+- 💬  "Feel free to reach out to me for discussions about DevOps and Cloud technologies."
 - 📫 How to reach me **tksahu.devops@gmail.com**
 
 <h3 align="left" style="color: #FF5722;">Connect with me:</h3>
