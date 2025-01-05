@@ -105,25 +105,26 @@
 <img align="right" alt="Coding" width="600" src="devOps-cloud-native.gif">
 <h1 align="center" >Have an idea? Let's connect:</h1>
 
-<div align="center" gap="20px">
-<a href="https://www.linkedin.com/in/tulasikumarsahu/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=blue" />
-</a>
+<div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
+  <!-- Upper row (mouth speaker shape) -->
+  <div style="display: flex; gap: 20px;">
+    <a href="https://www.linkedin.com/in/tulasikumarsahu/">
+      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://hashnode.com/@CloudCraft-with-TK">
+      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnode&logoColor=yellow" />
+    </a>
+    <a href="https://github.com/Tks-Devops">
+      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=black" />
+    </a>
+  </div>
 
-
-<a href="https://hashnode.com/@CloudCraft-with-TK">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=yellow" />
-</a>
-
-<a href="https://github.com/Tks-Devops">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=black" />
-</a>
-</div>
-
-<div align="center" gap="20px">
-<a href="https://www.youtube.com/@DevOpsAlchemy">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=red" />
-</a>
+  <!-- Lower row -->
+  <div>
+    <a href="https://www.youtube.com/@DevOpsAlchemy">
+      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=red" />
+    </a>
+  </div>
 </div>
 
 
