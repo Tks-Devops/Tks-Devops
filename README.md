@@ -107,21 +107,22 @@
 
 <div align="center" gap="20px">
 <a href="https://www.linkedin.com/in/tulasikumarsahu/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=pink" />
 </a>
 
+
 <a href="https://hashnode.com/@CloudCraft-with-TK">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnoad&logoColor=yellow" />
 </a>
 
 <a href="https://github.com/Tks-Devops">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=black" />
 </a>
 </div>
 
 <div align="center" gap="20px">
 <a href="https://www.youtube.com/@DevOpsAlchemy">
-<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=white" />
+<img  width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=red" />
 </a>
 </div>
 
