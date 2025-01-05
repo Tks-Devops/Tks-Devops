@@ -106,23 +106,23 @@
 <h1 align="center" >Have an idea? Let's connect:</h1>
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
-  <!-- Upper row (mouth speaker shape) -->
+  <!-- Upper row (innovative logos) -->
   <div style="display: flex; gap: 20px;">
     <a href="https://www.linkedin.com/in/tulasikumarsahu/">
-      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=white" />
+      <img width="80px" src="https://img.icons8.com/color/80/linkedin.png" alt="LinkedIn" />
     </a>
     <a href="https://hashnode.com/@CloudCraft-with-TK">
-      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=hashnode&logoColor=yellow" />
+      <img width="80px" src="https://img.icons8.com/color/80/hashnode.png" alt="Hashnode" />
     </a>
     <a href="https://github.com/Tks-Devops">
-      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=github&logoColor=black" />
+      <img width="80px" src="https://img.icons8.com/ios-filled/80/github.png" alt="GitHub" />
     </a>
   </div>
 
   <!-- Lower row -->
   <div>
     <a href="https://www.youtube.com/@DevOpsAlchemy">
-      <img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=youtube&logoColor=red" />
+      <img width="80px" src="https://img.icons8.com/color/80/youtube-play.png" alt="YouTube" />
     </a>
   </div>
 </div>
