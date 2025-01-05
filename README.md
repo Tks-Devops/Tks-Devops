@@ -107,7 +107,7 @@
 
 <div align="center" gap="20px">
 <a href="https://www.linkedin.com/in/tulasikumarsahu/">
-<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=pink" />
+<img width="70px" src="https://img.shields.io/badge/-%2312100E.svg?&logo=linkedin&logoColor=blue" />
 </a>
 
 
